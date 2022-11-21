@@ -8,8 +8,8 @@
 
 LINKS
 
-- GITHUB PAGES: https://lauraadan.github.io/Draggble-Navigation-Menu/
+- GITHUB PAGES: https://lauraadan.github.io/Draggable-Navigation-Menu/
 
--  GITHUB: https://github.com/lauraadan/Draggble-Navigation-Menu
+-  GITHUB: https://github.com/lauraadan/Draggable-Navigation-Menu
 
 
